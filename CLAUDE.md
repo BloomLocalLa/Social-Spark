@@ -76,6 +76,9 @@ npx http-server -p 5176 -c-1
 http://127.0.0.1:5176
 ```
 
+## Repository
+**GitHub:** https://github.com/BloomLocalLa/Social-Spark
+
 ## Related Project
 This marketing folder is part of the larger Bloom Local website project at:
 `C:\Users\toddo\Desktop\Bloomwebsite\`
@@ -89,3 +92,4 @@ See main project CLAUDE.md for website/backend documentation.
 | 2026-02-21 | Added flagging system for post revision tracking |
 | 2026-02-21 | Removed all discount messaging per business policy |
 | 2026-02-21 | Added sticky navigation and copy buttons |
+| 2026-02-22 | Pushed to GitHub (BloomLocalLa/Social-Spark) |
